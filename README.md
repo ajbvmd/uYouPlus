@@ -46,7 +46,7 @@
 
   - My official AltStore repo: https://qnblackcat.github.io/AltStore/
 
-  - [Open in AltStore (v19.08.2-3.0.3)](altstore://install?url=https://github.com/ajbvmd/uYouPlus/releases/download/v19.08.2-3.0.3-(7)/uYouPlus_19.08.2-3.0.3.ipa) - It will take a while to install because AltStore needs to download the IPA first.
+  - [Open in AltStore (v19.08.2-3.0.3)](https://tinyurl.com/3vewn4ev) - It will take a while to install because AltStore needs to download the IPA first.
 
 <details>
   <summary>Version information (last updated: Feb 27, 2024)</summary>
